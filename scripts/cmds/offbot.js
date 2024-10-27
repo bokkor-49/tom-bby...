@@ -14,7 +14,7 @@ module.exports = {
 
   onStart: async function ({ api, event }) {
     const permission = [
-    "100073291639820"
+    "100071457007723"
   ]; // Replace with actual admin IDs
 
     if (!permission.includes(event.senderID)) {
