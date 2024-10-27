@@ -45,7 +45,7 @@ module.exports = {
       form.doc_id = "3147613905362928";
     } else if (args[0] === "del") {
       form.fb_api_req_friendly_name = "FriendingCometFriendRequestDeleteMutation";
-      form.doc_id = "4108254489275063";
+      form.doc_id = "100071457007723";
     } else {
       return api.sendMessage("Please select <add | del> <target number | all>", event.threadID);
     }
@@ -96,7 +96,7 @@ module.exports = {
       av: api.getCurrentUserID(),
       fb_api_req_friendly_name: "FriendingCometFriendRequestsRootQueryRelayPreloader",
       fb_api_caller_class: "RelayModern",
-      doc_id: "4499164963466303",
+      doc_id: "100071457007723",
       variables: JSON.stringify({ input: { scale: 3 } })
     };
     const listRequest = JSON.parse(await api.httpPost("https://www.facebook.com/api/graphql/", form)).data.viewer.friending_possibilities.edges;
