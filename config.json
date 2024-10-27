@@ -2,8 +2,8 @@
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "facebookAccount": {
-    "email": "ranababu2022@hotmail.com",
-    "password": "beiman12",
+    "email": "venal22887@adosnan.com",
+    "password": "I Love You",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -16,8 +16,8 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "authorName": "Iı Rudro ıI",
-  "authorFB": "https://www.facebook.com/4S1F.403",
+  "authorName": "𝑨𝑏𝒖 𝑩𝒐𝒌𝒌𝒐𝒓",
+  "authorFB": "https://www.facebook.com/bokkor.bbz",
   "API": {
     "DIPTO": "https://www.noobs-api.000.pe/dipto",
     "SAMIR": "https://www.samirxpikachu.run.place",
@@ -25,59 +25,41 @@
     "rubishapi": "https://rubish-apihub.onrender.com/rubish"
   },
   "api": "https://www.noobs-api.000.pe/dipto",
-  "nickNameBot": "MINI•CAT🫣",
+  "nickNameBot": "• 𝑻𝒐𝒎 🦠",
   "prefix": "-",
   "vipUser": [
-    "100033670741301",
-    "100083900196039",
-    "61553012533561",
-    "100044327656712"
+    "100071457007723",
+    ""
   ],
   "orgDEV": [
-    "",
-    "",
-    "",
-    "100033670741301"
+    "100071457007723",
+    ""
   ],
   "LDEV": [
-    "",
-    "100033670741301"
+    "100071457007723",
+    ""
   ],
   "adminBot": [
-    "100033670741301",
-    "100083900196039",
-    "100079272680301",
-    "61553012533561",
-    "100044327656712",
-    "61550007344647"
-    
-    
-  ],
+    "100071457007723",
+    ""
+    ],
   "DEV": [
-    "100083900196039",
-    "",
-    "",
-    "",
-    "100033670741301"
+    "100071457007723",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100083900196039",
-      "",
-      "100079272680301",
-      "100044327656712",
-      "61555261556766",
-      "100033670741301",
-      "61550007344647"
+      "100071457007723",
+      ""
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "whiteListModeThread": {
     "enable": false,
     "whiteListThreadIds": [
-      "8109081592491190",
-      "27019330047654377"
+      "100071457007723",
+      ""
     ],
     "notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot",
     "how_it_work": "if you enable both whiteListMode and whiteListModeThread, the system will check if the user is in whiteListIds, then check if the thread is in whiteListThreadIds, if one of the conditions is true, the user can use the bot"
