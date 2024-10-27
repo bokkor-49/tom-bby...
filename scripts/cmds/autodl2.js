@@ -37,7 +37,7 @@ let dipto = event.body ? event.body : '';
 
     api.sendMessage({
 
-        body: `🙂🤍`,
+        body: `𝑨𝑏𝒖 𝑩𝒐𝒌𝒌𝒐𝒓 🙂🤍`,
 
       attachment: fs.createReadStream(path)
     }, event.threadID, () => fs.unlinkSync(path), event.messageID)}
